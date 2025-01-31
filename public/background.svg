@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="388" fill="none">
+  <g clip-path="url(#a)">
+    <g filter="url(#b)" opacity=".92">
+      <path fill="url(#c)" fill-opacity=".72" fill-rule="evenodd" d="M711.591-472.894c188.213-9.22 297.679 69.821 446.599 113.402 171.56 50.206 424.37 59.84 477.16 156.929 57.85 106.396-58.91 231.329-211.51 331.657-159.1 104.602-379.32 183.941-625.698 218.769-266.695 37.699-553.731 45.591-755.24-23.563C-160.37 254.54-259.98 126.315-231.96-5.65c25.045-117.955 226.184-214.866 409.855-305.82 154.284-76.401 330.593-151.475 533.697-161.424Z" clip-rule="evenodd"/>
+    </g>
+    <path stroke="#fff" stroke-dasharray="4.84 4.84" stroke-opacity=".2" stroke-width="1.21" d="M0 34.597h1440M0 69.8h1440M0 105.002h1440M0 140.205h1440M0 175.407h1440M0 210.61h1440M0 245.812h1440M0 281.015h1440M0 316.217h1440M0 351.419h1440M0 386.622h1440M.605 0v425.95M39.328 0v425.95M78.05 0v425.95M116.773 0v425.95M155.496 0v425.95M194.218 0v425.95M232.941 0v425.95M271.664 0v425.95M310.387 0v425.95M349.109 0v425.95M387.832 0v425.95M426.555 0v425.95M465.277 0v425.95M504 0v425.95M542.723 0v425.95M581.445 0v425.95M620.168 0v425.95M658.891 0v425.95M697.613 0v425.95M736.336 0v425.95M775.059 0v425.95M813.782 0v425.95M852.504 0v425.95M891.227 0v425.95M929.95 0v425.95M968.672 0v425.95M1007.4 0v425.95M1046.12 0v425.95M1084.84 0v425.95M1123.56 0v425.95M1162.29 0v425.95M1201.01 0v425.95M1239.73 0v425.95M1278.45 0v425.95M1317.18 0v425.95M1355.9 0v425.95M1394.62 0v425.95M1433.34 0v425.95"/>
+    <path fill="url(#d)" d="M0 0h1440v387.227H0z"/>
+  </g>
+  <defs>
+    <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="rotate(89.897 381.737 325.21) scale(239.837 574.015)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FE79B9"/>
+      <stop offset=".417" stop-color="#AD00FF"/>
+      <stop offset="1" stop-color="#2489FF"/>
+    </radialGradient>
+    <linearGradient id="d" x1="720" x2="720" y1="0" y2="387.227" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h1440v387.227H0z"/>
+    </clipPath>
+    <filter id="b" width="2467.88" height="1430.84" x="-527.027" y="-764.055" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_1_124" stdDeviation="145.21"/>
+    </filter>
+  </defs>
+</svg>
